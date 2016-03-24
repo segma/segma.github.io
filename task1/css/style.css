@@ -1,0 +1,40 @@
+body{background-color: silver;}
+article p{ text-indent:26px;line-height: 200%;}
+header ,footer{background-color: 	#1C1C1C;
+	 	padding-left: 5px
+
+	}
+header ul{float: right;}
+header ul li{float: right;			
+		    padding-right: 20px}
+header a {text-decoration: none;color: #fff;}
+.silver{color: silver;}
+article,aside{background-color: white;
+		margin: 15px;
+		padding: 15px;}
+.border li{border: solid 1px black;
+			padding: 0px auto;
+		   text-align: center;
+		 margin-bottom: 15px;
+		 width: 120px}
+.border li p{text-indent: 0px;line-height: 100%;margin: 10px auto}
+.border li img{width: 100px;height: 100px}
+#last table {border:1px solid black; }
+
+#last th{background: black;
+		color:#fff;}
+#last tr:last-child{background-color: silver;}
+
+#ll {float: left;text-align: right;margin-right: 5px;width: 40%}
+#rr{float:right;width: 55%}
+#rr input{}
+aside form p{position: relative;right: 0px}
+#button{width: 100%;color:#fff;font-size:20px;
+	background-color: blue;
+    border-radius: 30px}
+footer {text-align: center;
+		font-size:10px;
+		color: #fff;
+	    bottom: 0px;
+	    height: 50px;
+		padding-top: 1px}
